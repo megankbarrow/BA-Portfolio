@@ -5,7 +5,7 @@ This portfolio demonstrates my skills in **Business Analysis, Agile, SQL, Excel,
 
 ## Projects
 
-### Phase 1: BA Foundations + Agile
+### [Phase 1: BA Foundations + Agile](Phase1-BA-Foundations/)
 - [Stakeholder Map](Phase1-BA-Foundations/StakeholderMap.pdf)
 - [Mini BRD](Phase1-BA-Foundations/MiniBRD.pdf)
 - [Process Diagram](Phase1-BA-Foundations/ProcessDiagram.pdf)
